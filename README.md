@@ -2,7 +2,7 @@
 Teste de software com Cypress (Software test with Cypress)
 
 ## Description
-Desenvolvimento de teste E2E com Cypress para análise do software SAI Dengue, apresentado como projeto integrador (III) da Universidade Virtual do Estado de São Paulo (Univesp), São Paulo, Brasil. Este software visava automatizar o ssitema de cadastramaento de pacientes e monitorar áreas com alto indíces de infectados por dengue na cidade de São Carlos, São Paulo, Brasil
+Desenvolvimento de teste E2E com Cypress para análise do software SAI Dengue, apresentado como projeto integrador (III) da Universidade Virtual do Estado de São Paulo (Univesp), São Paulo, Brasil. Este software visava automatizar o sistema de cadastramaento de pacientes e monitorar áreas com alto indíces de infectados por dengue na cidade de São Carlos, São Paulo, Brasil
 <p>Development of E2E test with Cypress for analysis of SAI Dengue software, presented as an integrative project (III) of Virtual University of São Paulo State (Univesp), São Paulo, Brazil. This software aimed to automate the patient registration system and monitor areas with high rates of dengue infection in the city of São Carlos, São Paulo, Brazil</p>
 
 
