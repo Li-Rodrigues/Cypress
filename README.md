@@ -15,4 +15,8 @@ Desenvolvimento de teste E2E com Cypress para análise do software SAI Dengue, a
 ## Imagem da área para cadastro de paciente e edição de exame do sistema SAI Dengue avaliados através do sistema Cypress
 ## Image of the area for patient registration and exam editing in the SAI Dengue system evaluated using the Cypress system
 
+<p align="center">
+<img width="500px" src="https://github.com/user-attachments/assets/31325b54-8274-41d8-860e-831cb315ec3c">
+</p>
+
 
